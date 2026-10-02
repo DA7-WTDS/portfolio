@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "portfolio-4aba4"
+  },
+  "targets": {
+    "portfolio-4aba4": {
+      "hosting": {
+        "main": [
+          "yahia-portfolio"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
